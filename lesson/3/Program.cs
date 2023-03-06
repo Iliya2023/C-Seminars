@@ -70,15 +70,15 @@
 
 //Задача 4. Напишите программу которая принимает на вход число (N) и выдает на консоль квадраты чисел от 1 до N
 // 
-void Power(double N)
-{
-  double i = 1;
-  while( i <= N)
-  {
-    Console.WriteLine($"{i} -> {i}^2 -> {Math.Pow(i, 2)}");
-    i++;
-  }
-}
-Console.WriteLine("input number N: ");
-double N = Convert.ToDouble(Console.ReadLine());
-Power(N);
+// void Power(double N)
+// {
+//   double i = 1;
+//   while( i <= N)
+//   {
+//     Console.WriteLine($"{i} -> {i}^2 -> {Math.Pow(i, 2)}");
+//     i++;
+//   }
+// }
+// Console.WriteLine("input number N: ");
+// double N = Convert.ToDouble(Console.ReadLine());
+// Power(N);
