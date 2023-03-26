@@ -139,10 +139,6 @@
 // 18 20
 // 15 18
 
-Console.Write(" Введите количество строк ");
-int rows = Convert.ToInt32(Console.ReadLine()); //n
-Console.Write("Введите количество столбцов ");
-int columns = Convert.ToInt32(Console.ReadLine()); //m
 
 
 
